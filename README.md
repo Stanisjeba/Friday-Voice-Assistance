@@ -49,7 +49,7 @@ pip install speechrecognition pyttsx3 pyaudio
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/friday-voice-assistant.git
+git clone https://github.com/Stanisjeba/Friday-Voice-Assistance.git
 ```
 ## Install the Dependencies:
 
