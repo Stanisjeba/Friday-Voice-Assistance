@@ -1,0 +1,4 @@
+- Python (v3.x)
+- `speech_recognition`: For recognizing voice commands.
+- `pyttsx3`: For text-to-speech functionality.
+- `webbrowser`: To open search results in a web browser.
